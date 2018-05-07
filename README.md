@@ -1,25 +1,12 @@
-# ReduxSimpleStarter
+# BookViewerRedux
+- Simply select a book and view it's details in a stylised format. 
+- Simple project for demonstration of redux abilities
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
-
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+### Installation Instructions
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
+> git clone https://github.com/tejasnikumbh/book-viewer-redux.git
+> cd book-viewer-redux
 > npm install
 > npm start
 ```
